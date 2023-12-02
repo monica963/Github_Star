@@ -20,7 +20,7 @@ SQL学习
 |1|主要存储Datawhale组队学习中“编程、数据结构与算法”方向的资料|datawhale|https://github.com/datawhalechina/team-learning-program|
 |1|LeetCode 算法笔记：面试、刷题、学算法。|datawhale|https://github.com/datawhalechina/leetcode-notes|
 
-**二、进阶技术篇**
+**二、进阶技术篇** <br>
 语言大模型
 || 项目 | 作者 | 链接 |  
 | :---: | :--- | :---: |  :--- |  
