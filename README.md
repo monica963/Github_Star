@@ -8,6 +8,7 @@ python学习
 |1|聪明办法学Python，简明且系统的 Python 入门教程第二版。|datawhale|https://github.com/datawhalechina/learn-python-the-smart-way-v2|
 |2|pandas中文教程|datawhale|https://github.com/datawhalechina/joyful-pandas|
 |3|巨硬的NumPy|datawhale|https://github.com/datawhalechina/powerful-numpy|
+|4|Python - 100天从新手到大师|骆昊|https://github.com/jackfrued/Python-100-Days|
 
 SQL学习
 |  | 项目 | 作者 | 链接 |  
@@ -21,6 +22,12 @@ SQL学习
 |1|LeetCode 算法笔记：面试、刷题、学算法。|datawhale|https://github.com/datawhalechina/leetcode-notes|
 
 **二、进阶技术篇** <br>
+
+机器学习
+|| 项目 | 作者 | 链接 |  
+| :---: | :--- | :---: |  :--- |  
+|1| 申请信用评分卡模型 | - |https://github.com/lavender28/Credit-Card-Score|
+
 语言大模型
 || 项目 | 作者 | 链接 |  
 | :---: | :--- | :---: |  :--- |  
@@ -43,12 +50,14 @@ SQL学习
 |  | 项目 | 作者 | 链接 |  
 | :---: | :--- | :---: |  :--- |  
 |1|图深度学习（葡萄书）|datawhale|https://github.com/datawhalechina/grape-book|
+|2|ICDM 2022:大规模电商图上的风险商品检测——冠军方案|-|https://github.com/eaglelab-zju/ICDMCup2022-top1|
 
 深度学习
 |  | 项目 | 作者 | 链接 |  
 | :---: | :--- | :---: |  :--- |  
 |1|PyTorch入门教程|datawhale|https://github.com/datawhalechina/thorough-pytorch|
 |2|《李宏毅深度学习教程》|datawhale|https://github.com/datawhalechina/leedl-tutorial|
+|3|《深度学习框架PyTorch：入门与实战》|-|https://github.com/chenyuntc/pytorch-book|
 
 数据竞赛
 |  | 项目 | 作者 | 链接 |  
@@ -64,3 +73,4 @@ SQL学习
 |  | 项目 | 作者 | 链接 |  
 | :---: | :--- | :---: |  :--- |  
 |1|Datawhale成员整理的面经，内容包括机器学习，CV，NLP，推荐，开发等|datawhale|https://github.com/datawhalechina/daily-interview|
+|2|2023年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。|-|https://github.com/0voice/interview_internal_reference|
