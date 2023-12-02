@@ -58,7 +58,7 @@ SQL学习
 量化交易
 |  | 项目 | 作者 | 链接 |  
 | :---: | :--- | :---: |  :--- |  
-|1|本项目为量化开源课程，可以帮助人们快速掌握量化金融知识以及使用Python进行量化开发的能力。|datawhale|https://github.com/datawhalechina/whale-quant｜
+|1|本项目为量化开源课程，可以帮助人们快速掌握量化金融知识以及使用Python进行量化开发的能力。|datawhale|https://github.com/datawhalechina/whale-quant|
 
 **三、面试篇**
 |  | 项目 | 作者 | 链接 |  
