@@ -42,18 +42,18 @@ SQL学习
 图计算
 |  | 项目 | 作者 | 链接 |  
 | :---: | :--- | :---: |  :--- |  
-|1|图深度学习（葡萄书）|datawhale|https://github.com/datawhalechina/grape-book｜
+|1|图深度学习（葡萄书）|datawhale|https://github.com/datawhalechina/grape-book|
 
 深度学习
 |  | 项目 | 作者 | 链接 |  
 | :---: | :--- | :---: |  :--- |  
-|1|PyTorch入门教程|datawhale|https://github.com/datawhalechina/thorough-pytorch｜
-|2|《李宏毅深度学习教程》|datawhale|https://github.com/datawhalechina/leedl-tutorial｜
+|1|PyTorch入门教程|datawhale|https://github.com/datawhalechina/thorough-pytorch|
+|2|《李宏毅深度学习教程》|datawhale|https://github.com/datawhalechina/leedl-tutorial|
 
 数据竞赛
 |  | 项目 | 作者 | 链接 |  
 | :---: | :--- | :---: |  :--- |  
-|1|数据挖掘、计算机视觉、自然语言处理、推荐系统竞赛知识、代码、思路|datawhale|https://github.com/datawhalechina/competition-baseline｜
+|1|数据挖掘、计算机视觉、自然语言处理、推荐系统竞赛知识、代码、思路|datawhale|https://github.com/datawhalechina/competition-baseline|
 
 量化交易
 |  | 项目 | 作者 | 链接 |  
@@ -63,4 +63,4 @@ SQL学习
 **三、面试篇**
 |  | 项目 | 作者 | 链接 |  
 | :---: | :--- | :---: |  :--- |  
-|1|Datawhale成员整理的面经，内容包括机器学习，CV，NLP，推荐，开发等|datawhale|https://github.com/datawhalechina/daily-interview｜
+|1|Datawhale成员整理的面经，内容包括机器学习，CV，NLP，推荐，开发等|datawhale|https://github.com/datawhalechina/daily-interview|
